@@ -1,0 +1,15 @@
+.square {
+    background: #818181;
+    height: 220px;
+    width: 460px;
+    margin: 60px 0 0;
+    box-shadow: #d4b78f -30px -20px 35px 10px;
+    }
+.block {
+    font-size: larger;
+    height: 110px;
+    width:370px;
+    margin: 0 0;
+    border-left: #f70406 solid 5px;
+    padding-left: 20px
+}
