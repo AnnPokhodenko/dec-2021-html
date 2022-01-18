@@ -1,0 +1,34 @@
+body {
+    margin:0;
+}
+.line_1{
+    background: #8a2928;
+    color: #feead0;
+    text-align: center;
+    margin: 10px;
+}
+.line_2{
+    background: #c0c0c0;
+    font-size: larger;
+    padding: 20px;
+    margin: 10px 10px 0;
+}
+.line_3 {
+    background: #6496ec;
+    font-size: larger;
+    padding: 40px 0;
+    margin: 0 10px;
+}
+.square_1{
+    background: #6cba68;
+    height:230px;
+    width:230px;
+    margin:0 10px;
+}
+.square_2{
+    background: #8987ac;
+    height:230px;
+    width:230px;
+    margin:0 10px;
+    border-radius: 15px;
+}
