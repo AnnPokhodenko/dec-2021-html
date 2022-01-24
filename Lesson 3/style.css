@@ -1,0 +1,47 @@
+#container{
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+    column-gap: 10px;
+    height: 400px;
+    width: 350px;
+    margin: 160px auto;
+    justify-content: center;
+    align-items: center;
+
+}
+#header{
+    background: lightyellow;
+    height: 55px;
+    width: 300px;
+    border: black solid 1px;
+}
+#box{
+    display:flex;
+    flex-direction: row;
+    column-gap: 10px;
+}
+.menu {
+    background: #d5ffc9;
+    height: 230px;
+    width: 90px;
+    border: black solid 1px;
+}
+.block {
+    display:flex;
+    flex-direction:column;
+    row-gap: 10px;
+}
+.post {
+    background: lightcyan;
+    height: 110px;
+    width: 200px;
+    border: black solid 1px;
+}
+
+#footer{
+    background: mistyrose;
+    height: 55px;
+    width: 300px;
+    border: black solid 1px;
+}

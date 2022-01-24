@@ -1,0 +1,33 @@
+#container {
+    background: floralwhite;
+    height: 215px;
+    width: 325px;
+    display: flex;
+    flex-direction: column;
+    margin: 230px auto;
+    border: bisque solid 3px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    row-gap: 6px;
+}
+.A {
+    background: bisque;
+    height: 60px;
+    width: 316px;
+    }
+#block {
+    display: flex;
+    flex-direction: row;
+    column-gap: 6px;
+}
+.B {
+    background: bisque;
+    height:140px;
+    width: 240px;
+    }
+.C {
+    background: bisque;
+    height:140px;
+    width:70px;
+    }
