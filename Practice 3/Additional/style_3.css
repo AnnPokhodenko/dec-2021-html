@@ -1,0 +1,122 @@
+#container {
+    height: 700px;
+    width: 800px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 5px;
+    justify-content: center;
+    align-items: center;
+    margin: 20px auto;
+}
+
+.header {
+    background: #54d4f3;
+    height: 40px;
+    width: 380px;
+    color: white;
+    text-align: center;
+    box-sizing: border-box;
+    padding-top: 10px;
+    font-size: 20px;
+}
+
+#block1 {
+    display: flex;
+    flex-direction: row;
+    column-gap: 3px;
+}
+
+#block3 {
+    display: flex;
+    flex-direction: column;
+    row-gap: 5px;
+}
+
+.hero {
+    background: #d7c9e3;
+    height: 120px;
+    width: 150px;
+    color: white;
+    text-align: center;
+    box-sizing: border-box;
+    padding-top: 10px;
+    font-size: 20px;
+}
+
+.side {
+    background: #a0c364;
+    height: 160px;
+    width: 150px;
+    color: white;
+    text-align: center;
+    box-sizing: border-box;
+    padding-top: 10px;
+    font-size: 20px;
+}
+
+#block4 {
+    display: flex;
+    flex-direction: column;
+    row-gap: 5px;
+}
+
+.main {
+    background: #f5c634;
+    height: 200px;
+    width: 227px;
+    color: white;
+    text-align: center;
+    box-sizing: border-box;
+    padding-top: 10px;
+    font-size: 20px;
+}
+
+.extra {
+    background: #8a8a8a;
+    height: 80px;
+    width: 227px;
+    color: white;
+    text-align: center;
+    box-sizing: border-box;
+    padding-top: 10px;
+    font-size: 20px;
+}
+
+#block2{
+    display: flex;
+    flex-direction: row;
+    column-gap:3px;
+}
+
+.img{
+    background: #2db674;
+    height: 68px;
+    width: 267px;
+    color: white;
+    text-align: center;
+    box-sizing: border-box;
+    padding-top: 10px;
+    font-size:20px;
+}
+
+.post{
+    background: #f3ccde;
+    height: 68px;
+    width: 110px;
+    color: white;
+    text-align: center;
+    box-sizing: border-box;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.footer{
+    background: #fea602;
+    height: 40px;
+    width: 380px;
+    color: white;
+    text-align: center;
+    box-sizing: border-box;
+    padding-top: 10px;
+    font-size: 20px;
+}

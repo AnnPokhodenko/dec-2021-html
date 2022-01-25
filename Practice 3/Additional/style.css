@@ -1,0 +1,136 @@
+#container {
+    background: white;
+    height: 700px;
+    width: 800px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 20px;
+    margin: 10px auto;
+}
+
+#container > h2 {
+    color: #646768;
+}
+
+#block {
+    display: flex;
+    flex-direction: row;
+    column-gap: 20px;
+}
+
+#part1 {
+    width: 230px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-right: #e7e7e7 solid 2px;
+    border-bottom: #e7e7e7 solid 1px;
+    text-align: center;
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+#part1 > h3 {
+    color: #c2834f;
+    margin: 0;
+}
+
+.more {
+    background: #56c3b6;
+    height: 40px;
+    width: 125px;
+    color: white;
+    text-align: center;
+    box-sizing: border-box;
+    padding-top: 10px;
+    margin-top:15px;
+    margin-bottom: 20px
+}
+p{
+    font-size: 14px;
+    color: #9a9a9a;
+}
+
+#part1 > i {
+    color: #9a9a9a;
+    margin: 20px;
+    font-size: 25px;
+}
+
+
+#part2 {
+    width: 230px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    box-sizing: border-box;
+    padding: 10px;
+    border-right: #e7e7e7 solid 2px;
+    border-bottom: #e7e7e7 solid 1px;
+}
+
+#part2 > h3 {
+    color: #c2834f;
+    margin: 0;
+}
+
+#part2 > i {
+    color: #9a9a9a;
+    margin: 20px;
+    font-size: 25px;
+}
+
+#part3 {
+    width: 230px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-right: #e7e7e7 solid 2px;
+    border-bottom: #e7e7e7 solid 1px;
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+#part3 > i {
+    color: #9b9b9b;
+    margin: 15px;
+    font-size: 30px;
+}
+
+#part3 > h3 {
+    color: #c28450;
+    margin: 0;
+}
+
+#part4 {
+    width: 230px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    padding: 10px;
+    text-align: center;
+    border-right: #e7e7e7 solid 2px;
+    border-bottom: #e7e7e7 solid 1px;
+}
+
+#part4 > i {
+    color: #9b9b9b;
+    font-size: 25px;
+    margin: 20px;
+}
+
+#part4 > h3 {
+    color: #c28450;
+    margin: 0;
+}
+
+
