@@ -1,0 +1,39 @@
+body{
+    margin:0;
+    background: #0abcd4;
+}
+
+#wrap{
+    width: 1000px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    row-gap: 25px;
+    column-gap: 25px;
+    margin: 150px auto;
+}
+
+.block{
+    background: white;
+    height: 140px;
+    width: 450px;
+    display: flex;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.block>i{
+    color: #959595;
+    font-size: 40px;
+    margin:40px
+}
+.text>h3{
+    color: #f69f42;
+    margin:0;
+}
+.text {
+    margin-right: 20px;
+    margin-bottom: 10px;
+}

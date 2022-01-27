@@ -1,4 +1,5 @@
 body {
+    margin:0;
     background: #08bcd4;
 }
 
@@ -51,7 +52,7 @@ body {
 #block2>i{
     color: #969696;
     font-size:40px;
-    margin:35px;
+    margin:40px;
 }
 
 #block3 {
